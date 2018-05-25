@@ -1,0 +1,36 @@
+.navbar-brand {
+    color: white !important;
+    font-family:sans-serif !important;
+}
+
+.vertical-menu a.active {
+    background-color: #159867; /* Add a green color to the "active/current" link */
+    color: white;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn-primary.btn-outline, .btn:focus, .btn:active:focus, .btn-success {
+    background-color: #159867 !important;
+    outline: 0 !important;
+    box-shadow: none !important;
+    padding: 3px !important;
+}
+
+.btn-light{
+  padding: 3px !important;
+}
+
+.fill{
+  min-height: 50vh !important;
+}
+
+.fill10{
+  min-height: 10vh !important;
+}
+
+.fill20{
+  min-height: 20vh !important;
+}
+
+.fill30{
+  min-height: 30vh !important;
+}
